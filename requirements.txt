@@ -96,8 +96,6 @@ tb-nightly==2.2.0a20200204
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-tf-estimator-nightly==2.1.0.dev2020012309
-tf-nightly==2.1.0
 toml==0.10.0
 tornado==6.0.3
 tqdm==4.42.0
